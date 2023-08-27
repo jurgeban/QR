@@ -1,0 +1,53 @@
+body {  
+	background: hsl(212, 45%, 89%);
+	font-family: "Outfit", serif;
+}
+
+.attribution { 
+	font-size: 14px; 
+	text-align: center; 
+
+
+}
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
+.container {
+	background: hsl(0, 0%, 100%);
+	width: 350px;
+	height: 530px;
+	margin: 7% auto auto auto;
+	border-radius: 22px;
+}
+.imageHolder {
+   	/*background: green;*/
+   width: 350px;
+   height: 350px;
+   text-align: center;
+
+}
+img {
+	/*display: inline-block;*/
+	margin: 20px auto 0px auto;
+	width: 310px;
+	height: 310px;
+	border-radius: 13px;
+}
+h1 {
+	/*background: gray;*/
+	margin-top: 5px;
+	padding-right: 25px;
+	padding-left: 25px;
+	font-weight: 600;
+	text-align: center;
+	color: hsl(218, 44%, 22%);
+}
+p {
+	/*background: green;*/
+	padding-right: 49px;
+	padding-left: 49px;
+	font-weight: 400;
+	font-size: 15px; 
+	text-align: center;
+	color: hsl(220, 15%, 55%);
+}
